@@ -1,4 +1,6 @@
-# POSITRON
+# POSITRON PROGRAM LANGUAGE
+![Positron](https://redis.io/wp-content/uploads/2020/06/blog-async-scaled.jpeg)
+
 Positron é uma linguagem de programação simples e flexível criada em Python. Ela foi projetada para ser fácil de aprender e usar, 
 enquanto ainda oferece recursos poderosos o suficiente para aplicações do mundo real.
 
